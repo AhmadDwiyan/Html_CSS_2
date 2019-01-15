@@ -16,7 +16,7 @@ Hasil Index 6
 Hasil Index 7
 ![alt text](https://github.com/AhmadDwiyan/Html_CSS_2/blob/master/hasil%20latihan%208.png)
 Hasil Index 8
-![alt text](https://github.com/AhmadDwiyan/Html_CSS_2/blob/master/hasil%20latihan%209.png)
+![alt text](https://github.com/AhmadDwiyan/Html_CSS_2/blob/master/Hasil%20latihan%209.png)
 Hasil Index 9
 ![alt text](https://github.com/AhmadDwiyan/Html_CSS_2/blob/master/hasil%20latihan%2010.png)
 Hasil Index 10
